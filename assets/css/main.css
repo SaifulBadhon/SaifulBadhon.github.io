@@ -28,6 +28,11 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
+
+.me{
+	font-weight: bolder;
+	color: black;
+}
 .skills{
 	text-align: left;
 	
